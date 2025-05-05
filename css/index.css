@@ -1,0 +1,45 @@
+
+html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+  }
+
+  body {
+    background-image: url(/img/image_fx.jpg);
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+  }
+
+.main{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20%;
+}
+h1 {
+  font-size: 3rem;
+  color: white;
+}
+
+a {
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 25vw;
+  height: 4vh;
+  border-radius: 1rem;
+  text-align: center;
+  font-size: 2rem;
+  padding: 10px;
+  text-decoration: none;
+  color: white
+}
+  
+ 
