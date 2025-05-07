@@ -50,7 +50,8 @@ h2 {
 
 h3 {
     margin-left: 1350px;
-    margin-top: -600px;
+    margin-top: -940px;
+    font-size: 8rem;
 }
 .scroll-wheel-side
  {
@@ -60,4 +61,34 @@ h3 {
 
 .left-bottom {
     margin-top: 800px;
+}
+
+.scroll-wheel-side {
+    height: 200px; 
+    width: 33vw;
+    overflow-y: auto;
+    border: 1px solid #ccc; 
+    margin-left: 1000px;
+}
+
+.scroll-wheel-side::-webkit-scrollbar {
+    display: none;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.first-opt {
+    display: flex;
+    flex-direction: row;
+}
+
+.column a {
+    font-size: 5rem;
+}
+.column p {
+    font-size: 1rem;
 }
