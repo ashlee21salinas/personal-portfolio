@@ -1,0 +1,28 @@
+body {
+    background-color: #D9CCC1;
+    margin: 0;
+    padding: 0;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    gap: 1550px;
+    margin-top: 15px;
+}
+
+.row a {
+    font-size: 3.5rem;
+    margin-left: 20px;
+    text-decoration: none;
+    color: black;
+}
+
+#a-img {
+    margin-top: 15px;
+}
+
+h2 {
+    font-size: 4rem;
+    margin-top: 200px;
+}
