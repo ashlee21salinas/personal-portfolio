@@ -25,4 +25,12 @@ body {
 h2 {
     font-size: 4rem;
     margin-top: 200px;
+    height: 60vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+           
+    margin-left: 0;
+    margin-right: 0;
+    padding: 0;
 }
