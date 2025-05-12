@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.top {
+    display: flex;
+    flex-direction: row;
+    gap: 1550px;
+    margin-top: 15px;
+}
+
+#name {
+    text-decoration: none;
+    font-size: 3.5rem;
+}
+
+h2 {
+    font-size: 6rem;
+    padding: 0;
+    margin: 0;
+    margin-left: 20px;
+}
+
+.top-sec {
+    display: flex;
+    flex-direction: row-reverse;
+
+}
