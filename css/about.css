@@ -1,0 +1,76 @@
+body {
+    background-color: #D9CCC1;
+    margin: 0;
+    padding: 0;
+}
+
+.top {
+    display: flex;
+    flex-direction: row;
+    gap: 78%;
+    margin-top: 15px;
+}
+
+#name {
+    text-decoration: none;
+    font-size: 3.5rem;
+    margin-left: 20px;
+    color: black;
+}
+
+.left-side {
+    display: flex;
+    flex-direction: row;
+}
+
+.left-sidetwo {
+    font-size: 3rem;
+    margin-top: 15%;
+    margin-left: 2%;
+    width: 50vw;
+    display: flex;
+    flex-direction: column;
+}
+
+.smaller-right {
+    display: flex;
+    flex-direction: row;
+    gap: 20%;
+    margin-top: 45%;
+    margin-left: 25%;
+}
+
+.left-left p {
+    font-size: 1.5rem;
+}
+
+.left-right p {
+    font-size: 1.5rem;
+}
+
+#bigger {
+    font-size: 2rem;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 30%;
+    margin-top: 3%;
+}
+
+.buttons a {
+    text-decoration: none;
+    color: black;
+    background-color: lightgrey;
+    border: 1px solid black;
+
+    border-radius: 1em;
+    margin-bottom: 2%;
+    width: 10vw;
+    padding: 2%;
+    text-align: center;
+    font-size: 1.5rem
+}
