@@ -96,7 +96,7 @@ h2 {
 }
 
 #images {
-    width: 50vw;
+    width: 40vw;
     display: block;
     margin: auto;
     margin-left: 20%;
@@ -106,7 +106,7 @@ h2 {
 }
 
 #after {
-    width: 40vw;
+    width: 30vw;
     margin-left: 30%;
     text-align: center;
 }
@@ -149,4 +149,13 @@ svg {
     text-decoration: none;
     font-size: 2rem;
     color: black;
+}
+
+.side {
+    display: flex;
+    flex-direction: row;
+}
+
+#text {
+    margin-left: 50%;
 }
