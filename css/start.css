@@ -65,10 +65,10 @@ h3 {
 }
 
 .scroll-wheel-side {
-    height: 646px; 
+    height: 70vh; 
     width: 50vw;
     overflow-y: auto;
-    margin-left: 980px;
+    margin-left: 35%;
     /* border: 1px solid black; */
 }
 

@@ -7,7 +7,7 @@ body {
 .top {
     display: flex;
     flex-direction: row;
-    gap: 78%;
+    gap: 82%;
     margin-top: 15px;
 }
 
@@ -35,8 +35,8 @@ body {
 .smaller-right {
     display: flex;
     flex-direction: row;
-    gap: 20%;
-    margin-top: 45%;
+    gap: 25%;
+    margin-top: 60%;
     margin-left: 25%;
 }
 
@@ -50,6 +50,10 @@ body {
 
 #bigger {
     font-size: 2rem;
+}
+
+#award {
+    width: 13vw;
 }
 
 .buttons {
