@@ -7,7 +7,7 @@ body {
 .top {
     display: flex;
     flex-direction: row;
-    gap: 82%;
+    gap: 78%;
     margin-top: 15px;
 }
 
