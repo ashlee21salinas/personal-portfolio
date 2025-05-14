@@ -1,0 +1,43 @@
+body {
+    background-color: #D9CCC1;
+    margin: 0;
+    padding: 0;
+}
+
+
+h1 {
+    font-size: 5rem;
+    margin-left: 20%;
+}
+
+.top {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5%;
+}
+
+.top a {
+    margin-top: 4%;
+    margin-left: 30%;
+}
+
+
+#p  {
+    font-size: 3rem;
+    width: 70vw;
+    text-align: center;
+    margin-left: 10%;
+}
+
+#next {
+    text-decoration: none;
+    color: black;
+    font-size: 2rem;
+    margin-top: 5%;
+    background-color: darkgray;
+    padding: 2rem;
+    border-radius: 1em;
+    margin-left: 40%;
+}
