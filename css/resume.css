@@ -1,0 +1,173 @@
+body {
+    background-color: darkgray;
+}
+
+.name-sec {
+    display: flex;
+    flex-direction: column;
+}
+
+.top-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-left: 20%;
+}
+
+.top-row a {
+    margin-left: 40%;
+}
+
+h1 {
+    font-size: 10rem;
+    padding: 0;
+}
+
+.name-sec p {
+    font-size: 8rem;
+    margin-top: -25%;
+    margin-left: 50%;
+}
+
+h3 {
+    background-color: #FF0800;
+    width: fit-content;
+    padding: 1.5%;
+    font-size: 3rem;
+    border-radius: 1em;
+    margin-left: -5%;
+    width: 55vw;
+    text-align: center;
+}
+
+.left-side {
+    display: flex;
+    flex-direction: column;
+    margin-top: 8%;
+    width: 70%;
+}
+
+#job-tittle {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+#job-date {
+    font-size: 1rem;
+    margin-top: -3%;
+}
+
+#job-des {
+    font-size: 1.5rem;
+    width: 51vw;
+}
+
+.job-1 {
+    margin-top: -5%;
+}
+
+h4 {
+    background-color: #FF0800;
+    width: fit-content;
+    padding: 1.5%;
+    font-size: 3rem;
+    border-radius: 1em;
+    margin-left: -5%;
+    width: 55vw;
+    text-align: center;
+    margin-top: 5%;
+}
+
+.extrasec {
+    display: flex;
+    flex-direction: row;
+    font-size: 2rem;
+    margin-left: 5%;
+    gap: 10%;
+}
+
+h5 {
+    background-color: #FF0800;
+    width: fit-content;
+    padding: 1.5%;
+    font-size: 3rem;
+    border-radius: 1em;
+    margin-left: -5%;
+    width: 55vw;
+    text-align: center;
+    margin-top: 5%;
+}
+
+.coursessec {
+    display: flex;
+    flex-direction: row;
+    font-size: 2rem;
+    width: 45vw;
+    margin-left: 5%;
+}
+
+.whole-wrapper {
+    display: flex;
+    flex-direction: row;
+}
+
+.right-info {
+    width: 30%;
+    margin-top: 12%;
+    background-color: #FF0800;
+    border-radius: 2em;
+    padding: 2%;
+}
+.right-info p {
+    font-size: 2rem;
+}
+
+#tittle {
+    font-size: 3rem;
+    text-align: center;
+    background-color: darkgray;
+    padding: 1%;
+    border-radius: 1em;
+}
+
+#after {
+    font-size: 1.5rem;
+}
+
+.education {
+    margin-top: 30%;
+}
+
+#date {
+    font-size: 1rem;
+    margin-top: -3%;
+}
+
+.contact {
+    margin-top: 30%;
+}
+
+.row1 {
+    display: flex;
+    flex-direction: row;
+}
+.row2 {
+    display: flex;
+    flex-direction: row;
+    margin-top: 15%;
+}
+.row3 {
+    display: flex;
+    flex-direction: row;
+    margin-top: 15%;
+}
+
+.bottom {
+    display: flex;
+    flex-direction: column;
+}
+
+.bottom img {
+    width: 5vw;
+}
